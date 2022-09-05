@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Functions | Homepage of Federico Parola</title>
+    <link>https://fedeperola.github.io/tag/network-functions/</link>
+      <atom:link href="https://fedeperola.github.io/tag/network-functions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network Functions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedeperola.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Network Functions</title>
+      <link>https://fedeperola.github.io/tag/network-functions/</link>
+    </image>
+    
+    <item>
+      <title>Providing Telco-oriented Network Services with eBPF: the Case for a 5G Mobile Gateway</title>
+      <link>https://fedeperola.github.io/publication/ebpf-5g-gw/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/ebpf-5g-gw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proof-of-concept 5G mobile gateway with eBPF</title>
+      <link>https://fedeperola.github.io/publication/poster-ebpf-5g-gw/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/poster-ebpf-5g-gw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network Function Virtualization | Homepage of Federico Parola</title>
+    <link>https://fedeperola.github.io/tag/network-function-virtualization/</link>
+      <atom:link href="https://fedeperola.github.io/tag/network-function-virtualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network Function Virtualization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedeperola.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Network Function Virtualization</title>
+      <link>https://fedeperola.github.io/tag/network-function-virtualization/</link>
+    </image>
+    
+    <item>
+      <title>Assessing the performance of XDP and AF_XDP based NFs in edge data center scenarios</title>
+      <link>https://fedeperola.github.io/publication/poster-xdp-perf/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/poster-xdp-perf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

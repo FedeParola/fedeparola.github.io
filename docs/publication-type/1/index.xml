@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Homepage of Federico Parola</title>
+    <link>https://fedeperola.github.io/publication-type/1/</link>
+      <atom:link href="https://fedeperola.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedeperola.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://fedeperola.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Creating Disaggregated Network Services with eBPF: the Kubernetes Network Provider Use Case</title>
+      <link>https://fedeperola.github.io/publication/k8s-cni/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/k8s-cni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the performance of XDP and AF_XDP based NFs in edge data center scenarios</title>
+      <link>https://fedeperola.github.io/publication/poster-xdp-perf/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/poster-xdp-perf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Providing Telco-oriented Network Services with eBPF: the Case for a 5G Mobile Gateway</title>
+      <link>https://fedeperola.github.io/publication/ebpf-5g-gw/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/ebpf-5g-gw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A proof-of-concept 5G mobile gateway with eBPF</title>
+      <link>https://fedeperola.github.io/publication/poster-ebpf-5g-gw/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/poster-ebpf-5g-gw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
