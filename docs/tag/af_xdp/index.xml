@@ -5,7 +5,7 @@
     <link>https://fedeperola.github.io/tag/af_xdp/</link>
       <atom:link href="https://fedeperola.github.io/tag/af_xdp/index.xml" rel="self" type="application/rss+xml" />
     <description>AF_XDP</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fedeperola.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>AF_XDP</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Comparing User Space and In-Kernel Packet Processing for Edge Data Centers</title>
       <link>https://fedeperola.github.io/publication/xdp-af_xdp-cmp/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://fedeperola.github.io/publication/xdp-af_xdp-cmp/</guid>
       <description></description>
     </item>

@@ -27,8 +27,8 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2021 IEEE 7th International Conference on Network Softwarization (NetSoft)*
-publication_short: In *NetSoft 2021*
+publication: 2021 IEEE 7th International Conference on Network Softwarization (NetSoft)
+publication_short: NetSoft 2021
 
 abstract: Although several technologies exist for high-speed data plane processing, such as DPDK, the above technologies require a rigid partitioning of the resources of the system, such as dedicated CPU cores and network interfaces. Unfortunately, this is not always possible when running at the edge of the network, in which a few servers are available in each cluster and a mixture of data and control plane services must coexist on the same hardware. In this respect, eBPF can become a better alternative thanks to its integration in the vanilla Linux kernel, which enables contemporary support for data and control plane services, hence enabling a more efficient usage of the (scarce) computing resources. This paper proposes the first proof-of-concept open-source implementation of a 5G Mobile Gateway based on eBPF/XDP, highlighting the possible challenges (e.g., to create traffic policers, as buffering is not available in eBPF) and the resulting architecture. The result is characterized in terms of performance and scalability and compared with alternative technologies, showing that it outperforms other in-kernel solutions (e.g., Open vSwitch) and is comparable with DPDK-based platforms.
 

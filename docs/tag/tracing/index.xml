@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracing | Homepage of Federico Parola</title>
+    <link>https://fedeperola.github.io/tag/tracing/</link>
+      <atom:link href="https://fedeperola.github.io/tag/tracing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tracing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedeperola.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Tracing</title>
+      <link>https://fedeperola.github.io/tag/tracing/</link>
+    </image>
+    
+    <item>
+      <title>Measuring the Cost of the Linux Network Stack in Real-Time</title>
+      <link>https://fedeperola.github.io/publication/netto/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/netto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

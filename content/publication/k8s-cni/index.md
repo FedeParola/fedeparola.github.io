@@ -54,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://iris.polito.it/retrieve/d6a82da4-289b-4f33-b32e-f14f0087f2b8/author_Creating%20Disaggregated%20Network%20Services%20with%20eBPF%3a%20the%20Kubernetes%20Network%20Provider%20Use%20Case.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

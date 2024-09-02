@@ -5,12 +5,20 @@
     <link>https://fedeperola.github.io/tag/kubernetes/</link>
       <atom:link href="https://fedeperola.github.io/tag/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     <description>Kubernetes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fedeperola.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Kubernetes</title>
       <link>https://fedeperola.github.io/tag/kubernetes/</link>
     </image>
+    
+    <item>
+      <title>Enabling Scalable SFCs in Kubernetes with eBPF-based Cross-Connections</title>
+      <link>https://fedeperola.github.io/publication/ebpf-sfcs/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/ebpf-sfcs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Creating Disaggregated Network Services with eBPF: the Kubernetes Network Provider Use Case</title>

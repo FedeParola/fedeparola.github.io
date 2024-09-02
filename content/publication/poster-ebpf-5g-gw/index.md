@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://iris.polito.it/retrieve/ffbcb2ac-11ae-4f8c-bc83-e6502a951b23/author_A%20proof-of-concept%205G%20mobile%20gateway%20with%20eBPF.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

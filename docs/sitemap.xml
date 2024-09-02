@@ -4,35 +4,65 @@
   
   
   <url>
-    <loc>https://fedeperola.github.io/publication-type/0/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/publication-type/1/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/tag/af_xdp/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/publication/wireguard/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/publication/xdp-af_xdp-cmp/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/tag/data-plane/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/tag/multi-core-scalability/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/tag/ebpf/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/publication_types/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/publication/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/tag/linux-kernel/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/tags/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/tag/nfv/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/tag/tunneling/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/publication_types/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/tag/wireguard/</loc><lastmod>2024-07-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/publication/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/tag/dpdk/</loc><lastmod>2024-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/tags/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/tag/shared-memory/</loc><lastmod>2024-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/tag/xdp/</loc><lastmod>2022-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/publication/z-stack/</loc><lastmod>2024-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/publication-type/1/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://fedeperola.github.io/tag/zero-copy/</loc><lastmod>2024-07-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/ebpf/</loc><lastmod>2024-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/linux/</loc><lastmod>2024-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/publication/netto/</loc><lastmod>2024-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/networking/</loc><lastmod>2024-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/observability/</loc><lastmod>2024-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/tracing/</loc><lastmod>2024-06-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/publication-type/2/</loc><lastmod>2023-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/af_xdp/</loc><lastmod>2023-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/publication/xdp-af_xdp-cmp/</loc><lastmod>2023-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/data-plane/</loc><lastmod>2023-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/linux-kernel/</loc><lastmod>2023-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/nfv/</loc><lastmod>2023-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/xdp/</loc><lastmod>2023-04-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/publication/ebpf-sfcs/</loc><lastmod>2022-11-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/kubernetes/</loc><lastmod>2022-11-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/service-function-chaining/</loc><lastmod>2022-11-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://fedeperola.github.io/publication/k8s-cni/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://fedeperola.github.io/tag/kubernetes/</loc><lastmod>2022-06-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://fedeperola.github.io/publication/poster-xdp-perf/</loc><lastmod>2021-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -54,4 +84,6 @@
   <url>
     <loc>https://fedeperola.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://fedeperola.github.io/categories/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://fedeperola.github.io/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://fedeperola.github.io/tag/tcp/ip-protocol-stack/</loc><changefreq>weekly</changefreq></url></urlset>

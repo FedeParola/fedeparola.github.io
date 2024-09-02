@@ -5,7 +5,7 @@
     <link>https://fedeperola.github.io/</link>
       <atom:link href="https://fedeperola.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Homepage of Federico Parola</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fedeperola.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Homepage of Federico Parola</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Achieving Linear CPU Scaling in WireGuard with an Efficient Multi-tunnel Architecture</title>
+      <link>https://fedeperola.github.io/publication/wireguard/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/wireguard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z-Stack: A High-Performance DPDK-Based Zero-Copy TCP/IP Protocol Stack</title>
+      <link>https://fedeperola.github.io/publication/z-stack/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/z-stack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Cost of the Linux Network Stack in Real-Time</title>
+      <link>https://fedeperola.github.io/publication/netto/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/netto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Comparing User Space and In-Kernel Packet Processing for Edge Data Centers</title>
       <link>https://fedeperola.github.io/publication/xdp-af_xdp-cmp/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://fedeperola.github.io/publication/xdp-af_xdp-cmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling Scalable SFCs in Kubernetes with eBPF-based Cross-Connections</title>
+      <link>https://fedeperola.github.io/publication/ebpf-sfcs/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://fedeperola.github.io/publication/ebpf-sfcs/</guid>
       <description></description>
     </item>
     

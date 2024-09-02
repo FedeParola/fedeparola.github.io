@@ -15,8 +15,8 @@ author_notes:
   - ''
   - ''
 
-date: '2022-08-01T00:00:00Z'
-doi: ''
+date: '2023-04-20T00:00:00Z'
+doi: '10.1145/3594255.3594257'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -25,11 +25,11 @@ publishDate: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['0']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Under review
-publication_short: Under review
+publication: SIGCOMM Computer Communication Review
+publication_short: SIGCOMM CCR
 
 abstract: 'With the increased availability of small data centers at the edge of the network, telecommunication operators are massively moving their network functions in the above computing facilities.
 However, the high performance provided by commonly used technologies for data plane processing such as DPDK, based on kernel-bypass primitives, comes at the cost of rigid resource partitioning.
@@ -56,7 +56,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './publication/xdp-af_xdp-cmp/Comparing_User_Space_and_In_Kernel_Packet_Processing_for_Edge_Data_Centers.pdf'
+url_pdf: 'https://iris.polito.it/retrieve/ec3b517c-fb4c-4080-98ea-58fbc03f0030/author_Comparing%20User%20Space%20and%20In%20Kernel%20Packet%20Processing%20for%20Edge%20Data%20Centers.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

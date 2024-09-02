@@ -7,15 +7,21 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Experience
-    url: '#experience'
+  - name: Education
+    url: '#education'
     weight: 20
+  - name: Professional experience
+    url: '#professional-experience'
+    weight: 30
+  - name: Other experience
+    url: '#other-experience'
+    weight: 40
   - name: Publications
     url: '#publications'
-    weight: 30
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: Resume
+    url: uploads/resume.pdf
+    weight: 70
